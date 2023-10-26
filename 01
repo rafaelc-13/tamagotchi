@@ -1,4 +1,0 @@
-from biblioteca import Pessoa
-tamagoshi = Pessoa("Rafinha",85,25)
-tamagoshi.comer()
-tamagoshi.comer()
