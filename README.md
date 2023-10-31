@@ -1,1 +1,1 @@
-# P-O-O
+# P-O-O introduction using Tamagotchi reference
